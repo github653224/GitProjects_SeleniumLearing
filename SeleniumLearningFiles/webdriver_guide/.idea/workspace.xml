@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dc98257-398c-4f9f-935d-8181ad3fe38a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/SimpleLocate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/checkbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/find_elements.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/find_elements.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/find_elements.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/find_elements.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/find_elements.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09/find_elements.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/LevelLocate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10/level_locate.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/OperateElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11/operate_element.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/SendKeys.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/send_keys.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/send_keys.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/send_keys.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/send_keys.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/send_keys.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12/send_keys.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/ButtonGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/button_group.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/button_group.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/button_group.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/button_group.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/button_group.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13/button_group.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/ButtonDropdown.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/button_dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/button_dropdown.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/button_dropdown.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/button_dropdown.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/button_dropdown.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14/button_dropdown.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/Navs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/navs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/navs.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/navs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/navs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/navs.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15/navs.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/Breadcrumb.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/breadcrumb.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/breadcrumb.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/breadcrumb.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/breadcrumb.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/breadcrumb.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16/breadcrumb.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/Pagination.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/pagination.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/pagination.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/pagination.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/pagination.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17/pagination.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/Modal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/modal.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/modal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/modal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/modal.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18/modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/Attribute.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/attribute.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/input.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19/input.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/Css.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/css.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/css.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/css.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/css.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/css.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20/css.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/Status.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21/status.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/Form.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22/form.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/Js.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/js.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/js.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/js.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/js.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23/js.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/AlertExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24/alert.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/WaitExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25/wait.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/Frame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/frame.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/26/inner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/27/action.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/27/action.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/27/action.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/Upload.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/28/upload_file.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/29/download.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/29/download.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/29/download.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/30/timeout.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/30/timeout.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/30/timeout.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/31/remote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/CookieExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/cookie.java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/cookie.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/cookie.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/cookie.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/cookie.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/32/cookie.watir.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/33/sub_window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/33/switch_window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/33/switch_window.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/33/switch_window.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/34/expected_conditions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/34/expected_conditions.py.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/35/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/35/select.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/35/select.py.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/to_pdf/about.ppt" afterPath="$PROJECT_DIR$/to_pdf/about.ppt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/00/init.java.md" afterPath="$PROJECT_DIR$/00环境的安装说明/init.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/00/init.md" afterPath="$PROJECT_DIR$/00环境的安装说明/init.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/00/init.py.md" afterPath="$PROJECT_DIR$/00环境的安装说明/init.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/StartBrowser.java" afterPath="$PROJECT_DIR$/01浏览器的打开操作/StartBrowser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/start_browser.java.md" afterPath="$PROJECT_DIR$/01浏览器的打开操作/start_browser.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/start_browser.md" afterPath="$PROJECT_DIR$/01浏览器的打开操作/start_browser.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/start_browser.py" afterPath="$PROJECT_DIR$/01浏览器的打开操作/start_browser.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/start_browser.py.md" afterPath="$PROJECT_DIR$/01浏览器的打开操作/start_browser.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/start_browser.rb" afterPath="$PROJECT_DIR$/01浏览器的打开操作/start_browser.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/start_browser.watir.rb" afterPath="$PROJECT_DIR$/01浏览器的打开操作/start_browser.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/CloseBrowser.java" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/CloseBrowser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/close_browser.java.md" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/close_browser.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/close_browser.md" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/close_browser.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/close_browser.py" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/close_browser.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/close_browser.py.md" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/close_browser.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/close_browser.rb" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/close_browser.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/close_browser.watir.rb" afterPath="$PROJECT_DIR$/02浏览器的关闭操作/close_browser.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/Maximize.java" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/Maximize.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/maximize_browser.java.md" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/maximize_browser.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/maximize_browser.md" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/maximize_browser.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/maximize_browser.py" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/maximize_browser.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/maximize_browser.py.md" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/maximize_browser.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/maximize_browser.rb" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/maximize_browser.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/maximize_browser.watir.rb" afterPath="$PROJECT_DIR$/03最大化浏览器窗口的操作/maximize_browser.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/CloseBrowser.java" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/CloseBrowser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/resize_browser.java.md" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/resize_browser.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/resize_browser.md" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/resize_browser.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/resize_browser.py" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/resize_browser.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/resize_browser.py.md" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/resize_browser.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/resize_browser.rb" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/resize_browser.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/resize_browser.watir.rb" afterPath="$PROJECT_DIR$/04设定浏览器窗口指定值大小/resize_browser.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/Get.java" afterPath="$PROJECT_DIR$/05访问链接的方法/Get.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/get.java.md" afterPath="$PROJECT_DIR$/05访问链接的方法/get.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/get.md" afterPath="$PROJECT_DIR$/05访问链接的方法/get.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/get.py" afterPath="$PROJECT_DIR$/05访问链接的方法/get.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/get.py.md" afterPath="$PROJECT_DIR$/05访问链接的方法/get.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/get.rb" afterPath="$PROJECT_DIR$/05访问链接的方法/get.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/get.watir.rb" afterPath="$PROJECT_DIR$/05访问链接的方法/get.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/TitleAndUrl.java" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/TitleAndUrl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/title_and_url.java.md" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/title_and_url.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/title_and_url.md" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/title_and_url.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/title_and_url.py" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/title_and_url.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/title_and_url.py.md" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/title_and_url.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/title_and_url.rb" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/title_and_url.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/title_and_url.watir.rb" afterPath="$PROJECT_DIR$/06获取网页title和url的方法/title_and_url.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/ForwardAndBack.java" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/ForwardAndBack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/forword_and_back.java.md" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/forword_and_back.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/forword_and_back.md" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/forword_and_back.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/forword_and_back.py" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/forword_and_back.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/forword_and_back.py.md" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/forword_and_back.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/forword_and_back.rb" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/forword_and_back.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/forword_and_back.watir.rb" afterPath="$PROJECT_DIR$/07浏览器的前进与后退方法/forword_and_back.watir.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/SimpleLocate.java" afterPath="$PROJECT_DIR$/08网页元素定位方法/SimpleLocate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/form.html" afterPath="$PROJECT_DIR$/08网页元素定位方法/form.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/simple_locate.java.md" afterPath="$PROJECT_DIR$/08网页元素定位方法/simple_locate.java.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/simple_locate.md" afterPath="$PROJECT_DIR$/08网页元素定位方法/simple_locate.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/simple_locate.py" afterPath="$PROJECT_DIR$/08网页元素定位方法/simple_locate.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/simple_locate.py.md" afterPath="$PROJECT_DIR$/08网页元素定位方法/simple_locate.py.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/simple_locate.rb" afterPath="$PROJECT_DIR$/08网页元素定位方法/simple_locate.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/simple_locate.watir.rb" afterPath="$PROJECT_DIR$/08网页元素定位方法/simple_locate.watir.rb" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webdriver_guide$level_locate.coverage" NAME="level_locate Coverage Results" MODIFIED="1509093999027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/webdriver_guide$find_elements.coverage" NAME="find_elements Coverage Results" MODIFIED="1509093699776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/webdriver_guide$operate_element.coverage" NAME="operate_element Coverage Results" MODIFIED="1509094230927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/webdriver_guide$form.coverage" NAME="form Coverage Results" MODIFIED="1509106874440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22" />
+    <SUITE FILE_PATH="coverage/webdriver_guide$css.coverage" NAME="css Coverage Results" MODIFIED="1509106563643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20获取测试对象的css属性" />
+    <SUITE FILE_PATH="coverage/webdriver_guide$form__1_.coverage" NAME="form (1) Coverage Results" MODIFIED="1509107211294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22form表单下拉栏列表处理" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/09/find_elements.py" />
+        <option value="$PROJECT_DIR$/10/level_locate.py" />
+        <option value="$PROJECT_DIR$/11/operate_element.py" />
+        <option value="$PROJECT_DIR$/20获取测试对象的css属性/css.py" />
+        <option value="$PROJECT_DIR$/22/form.py" />
+        <option value="$PROJECT_DIR$/27/action.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webdriver_guide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver_guide" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.form (1)">
+    <configuration name="css" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20获取测试对象的css属性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webdriver_guide" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20获取测试对象的css属性/css.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="css.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdriver_guide/20获取测试对象的css属性/css.html" />
+    <configuration name="form (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22form表单下拉栏列表处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webdriver_guide" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22form表单下拉栏列表处理/form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="form" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webdriver_guide" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22/form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="operate_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webdriver_guide" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11/operate_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.operate_element" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.css.html" />
+      <item index="2" class="java.lang.String" itemvalue="Python.css" />
+      <item index="3" class="java.lang.String" itemvalue="Python.form" />
+      <item index="4" class="java.lang.String" itemvalue="Python.form (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.form (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.form" />
+        <item index="2" class="java.lang.String" itemvalue="Python.css" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.css.html" />
+        <item index="4" class="java.lang.String" itemvalue="Python.operate_element" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dc98257-398c-4f9f-935d-8181ad3fe38a" name="Default" comment="" />
+      <created>1509091686091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509091686091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1616" height="870" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35394737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/09/find_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10/level_locate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/operate_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="714" column="11" lean-forward="false" selection-start-line="714" selection-start-column="11" selection-end-line="714" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11超链接访问和/operate_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/send_keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/button_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/site-packages/selenium/webdriver/support/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#788#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/button_dropdown.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15/navs.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15/navs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/breadcrumb.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/breadcrumb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/Pagination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/pagination.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18/modal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18/modal.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19/attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19/attribute.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20/css.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20/css.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08网页元素定位方法/simple_locate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09复选框操作/find_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21/status.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21/status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22/form.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20获取测试对象的css属性/css.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23/js.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23/js.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24/alert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24/alert.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25/wait.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25/wait.java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26/frame.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27/action.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28/upload_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28/upload_file.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29/download.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30/timeout.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31/remote.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="-1326">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32/cookie.py.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33/switch_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33/switch_window.py.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34/expected_conditions.py.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35/select.py.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-52">
+            <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
